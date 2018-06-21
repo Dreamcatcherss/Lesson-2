@@ -1,0 +1,10 @@
+D:\ReadyLessons\Lesson 2\Дополнительное задание\bin\Debug\Дополнительное задание.exe.config
+D:\ReadyLessons\Lesson 2\Дополнительное задание\bin\Debug\Дополнительное задание.exe
+D:\ReadyLessons\Lesson 2\Дополнительное задание\bin\Debug\Дополнительное задание.pdb
+D:\ReadyLessons\Lesson 2\Дополнительное задание\obj\Debug\Дополнительное задание.csprojAssemblyReference.cache
+D:\ReadyLessons\Lesson 2\Дополнительное задание\obj\Debug\Дополнительное_задание.Form1.resources
+D:\ReadyLessons\Lesson 2\Дополнительное задание\obj\Debug\Дополнительное_задание.Properties.Resources.resources
+D:\ReadyLessons\Lesson 2\Дополнительное задание\obj\Debug\Дополнительное задание.csproj.GenerateResource.cache
+D:\ReadyLessons\Lesson 2\Дополнительное задание\obj\Debug\Дополнительное задание.csproj.CoreCompileInputs.cache
+D:\ReadyLessons\Lesson 2\Дополнительное задание\obj\Debug\Дополнительное задание.exe
+D:\ReadyLessons\Lesson 2\Дополнительное задание\obj\Debug\Дополнительное задание.pdb
